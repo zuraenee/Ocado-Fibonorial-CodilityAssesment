@@ -1,4 +1,4 @@
-def solution(C):
+adef solution(C):
     stable_periods_counter = 0
     n_stable_periods = 0
     for i, item in enumerate(C):
